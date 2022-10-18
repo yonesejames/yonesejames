@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋🏾, I'm Yonese</h1><h4 align="center">(pronounced: "yo-nez")</h3>
 
 <h3 align="center">A passionate backend developer from Florida</h3>
-<img align="right" alt="woman-coding" width="400" src="https://cdn.dribbble.com/users/846207/screenshots/9192312/media/c821e24ed3cc26b9e43e2decfdee20ce.gif">
+<img align="right" alt="woman-coding" width="450" src="https://images.squarespace-cdn.com/content/v1/53be1344e4b08ede82e11ecf/1565135710257-28AE3KXYKJVYYHKKNZ6X/giphy.gif?format=750w">
 
 - 🔭 I’m currently working on **Java, Spring, and ElasticSearch projects at Indeed internship.**
 
