@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **my Software Engineering journey**
 
-- 📫 How to reach me **yoneseguerrier@gmail.com**
+- 📫 How to reach me **Indeed link below*
 
 - 📄 Know about my experiences [TBA](TBA)
 
