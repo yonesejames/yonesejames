@@ -4,13 +4,13 @@
 <h3 align="center">A passionate full-stack developer from Florida</h3>
 <img align="right" alt="woman-coding" width="450" src="https://images.squarespace-cdn.com/content/v1/53be1344e4b08ede82e11ecf/1565135710257-28AE3KXYKJVYYHKKNZ6X/giphy.gif?format=750w">
 
-- 🔭 I’m currently working on **Java, Spring, and ElasticSearch projects at Indeed internship.**
+- 🔭 I’m currently working on **C#, .NET, and React at Carrot Fertility**
 
-- 🌱 I’m currently learning **Kafka and Elastic Search.**
+- 🌱 I’m currently learning **switching/juggling coding, learning, and testing backend and frontend**
 
 - 👨‍💻 All of my projects are available at [TBA](TBA)
 
-- 💬 Ask me about **How I would be a great value on your Software Development team!**
+- 💬 Ask me about **my Software Engineering journey**
 
 - 📫 How to reach me **yoneseguerrier@gmail.com**
 
